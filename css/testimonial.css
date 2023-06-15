@@ -1,0 +1,81 @@
+.testimonial {
+  padding-top: 100px;
+}
+
+.content-left {
+  position: relative;
+}
+
+.content-left-description {
+  position: absolute;
+  top: 0;
+  padding: 52px;
+  width: 650px;
+}
+
+.content-left-description h4 {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 126.4%;
+  color: #ffffff;
+}
+
+.content-person {
+  margin-top: 70px;
+}
+
+.content-person h4 {
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 37px;
+  margin-top: 20px;
+}
+
+.content-person p {
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 150.9%;
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+
+.small-img {
+  position: absolute;
+  right: 150px;
+  bottom: 200px;
+}
+
+.content-img1 {
+  position: absolute;
+  right: -100px;
+}
+
+.content-right {
+  position: relative;
+  margin-top: 80px;
+}
+
+.content-right-img {
+  position: relative;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.content-right-description {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 52px;
+  width: 650px;
+}
+
+.content-right-description h4 {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 126.4%;
+  color: #ffffff;
+}
+
+.third-slide {
+  margin-top: 80px;
+}
